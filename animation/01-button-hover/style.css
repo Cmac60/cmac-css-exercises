@@ -17,3 +17,9 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+/* Below is the only selector and declaration needed to solve this exercise */
+
+button:hover {
+  transform: scale(1.2);
+}
